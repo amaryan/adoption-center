@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+   font-family: 'Montserrat', sans-serif;
+}
+
+body {
+   background-color: #FFF7B6;
+}
+
+.top-nav{
+   background-color: black;
+}
+
+.top-nav a{
+   font-weight: bold;
+   color: white;
+}
+
+.top-nav a:hover{
+
+   color: #EBAF4C!important;
+}
+
+.navbar-brand {
+   color: black;
+   font-size: 1rem !important;
+   
+}
+
+.bottom-nav {
+   background-color: white;
+   color: black !important;
+   padding: 0!important;
+}
+
+.bottom-nav a {
+   font-weight: bold;
+   text-decoration: none !important;
+   font-size: 1.3rem !important;
+   color: black !important;
+   border: 1px solid white !important;
+   
+}
+
+.bottom-nav a:hover {
+   font-size: 1.3rem !important;
+   color: white !important;
+   background-color: black;
+}
+
+.logo img {
+   width: 230px;
+}
+
+.card-big-cats {
+   height: 1425px;
+}
+
+.big-cat-img{
+   width: 951px;
+   height: 927px;
+}
+
+.center-cats-img {
+   width: 65%;
+}
+
+.cat-img:hover {
+   cursor: pointer;
+   box-shadow: 2px 2px 2px #88888880;
+
+}
+
+.cat-title {
+   font-weight: bold;
+}
+
+.foot {
+   background-image: linear-gradient(to right, rgb(85, 85, 81), rgb(0, 0, 0));
+}
+
+.links-container{
+   padding-top: 35px;
+}
+
+footer h5 {
+   color: white;
+}
+footer a {
+   color: white;
+   
+}
+footer a:hover {
+   text-decoration: none;
+   color: #EBAF4C
+}
+
